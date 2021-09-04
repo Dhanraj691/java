@@ -1,16 +1,16 @@
-public class Ebike                             //Ebike - class name
+public class Ebike                             
 {
 
 public static void main(String args[])
 	{
 	
-	Ebike rider =new Ebike();                 //new Ebike() - is an Object, rider is a Object name
+	Ebike rider =new Ebike();                 
 	
-	rider.putStartkey();                      //Calling Method using Object
+	rider.putStartkey();                      
 	
 	}
 	
-void putStartkey()                            //Method creation 
+void putStartkey()                           
 	{
 	
 	System.out.println("Ready to ride..");
