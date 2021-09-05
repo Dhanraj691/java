@@ -19,10 +19,10 @@ void putStartkey()
 	
 }
 
-;ldmcdmdmdcldmclcmd
-ddsdsdsvsdvv
-dsvsdvsdvvsd
-dsvds
-v
+//;ldmcdmdmdcldmclcmd
+//ddsdsdsvsdvv
+//dsvsdvsdvvsd
+//dsvds
+//v
 
 
