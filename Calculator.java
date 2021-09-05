@@ -27,5 +27,4 @@ public class Calculator
 	
 }
 
-//it's good
 
