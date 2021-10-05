@@ -15,3 +15,10 @@ public class SQLTrainer extends Trainer
 	}
 	
 }
+
+/* 
+Department name : EEE Institute name : TCS
+EEE
+We provid good training
+10000
+*/
