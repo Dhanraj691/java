@@ -16,7 +16,8 @@ public class SQLTrainer extends Trainer
 	
 }
 
-/* 
+/* output 
+
 Department name : EEE Institute name : TCS
 EEE
 We provide good training
