@@ -22,7 +22,7 @@ public class Trainer
 	{
 		this.dept="Java";
 		this.institute="Payilagam";
-		System.out. println("We provid good training");
+		System.out. println("We provide good training");
 		
 	}
 	
@@ -32,3 +32,6 @@ public static void main(String args[])
 	
 }
 }
+
+//output
+//Department name : CSE Institute name : Payilagam
