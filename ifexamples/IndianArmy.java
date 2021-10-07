@@ -30,7 +30,7 @@ public class IndianArmy
 
 		
 	}
-
+	
 	public static void main(String[] args)
 	{
 		IndianArmy ranger=new IndianArmy();
