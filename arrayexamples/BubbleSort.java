@@ -74,3 +74,18 @@ public class BubbleSort {
 	}
 
 }
+
+/* output:
+
+Ascending Order :
+Kamal : 19
+Dhanraj : 21
+Vimal : 22
+Raj : 25
+Discending Order :
+Raj : 25
+Vimal : 22
+Dhanraj : 21
+Kamal : 19
+
+*/
