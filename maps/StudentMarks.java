@@ -31,3 +31,11 @@ public class StudentMarks extends Exception  {
 	}
 
 }
+/*output:
+Dhanraj get 360 marks
+Ravi get 290 marks
+Eliz get 360 marks
+Raj get 369 marks
+Dhana get 407 marks
+Map is end...
+*/
